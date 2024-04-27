@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#deleteButton{
+    padding: 0.5rem 1rem ;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+}
